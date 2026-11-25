@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "4c5eeeb50af1d845",
+    "type": "split",
+    "children": [
+      {
+        "id": "be641419722ab54f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2e34b47acec342c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-AGENTES/treinador-principal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "treinador-principal"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8c711820ad96f6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5093ea5b32718e03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4be7e877ebf6f8a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "2293204f97feb831",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "e813482c273f3ca8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4a72ee1391599f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cd1185a321cf96c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b78466213a57dafb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02-AGENTES/treinador-principal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "98a16a7987760a63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02-AGENTES/treinador-principal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "ef54d5330a871c6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "c914badbc455c602",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "0d2f5611d4eb89d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02-AGENTES/treinador-principal.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "a2e34b47acec342c",
+  "lastOpenFiles": [
+    "02-AGENTES/treinador-musculacao.md",
+    "02-AGENTES/treinador-corrida.md",
+    "02-AGENTES/analista-recuperacao.md",
+    "CLAUDE.md",
+    "00-COMECE-AQUI.md",
+    "07-EVOLUCAO/resumos-semanais/LEIA-ME.md",
+    "07-EVOLUCAO/resumos-semanais",
+    "07-EVOLUCAO/aprendizados.md",
+    "07-EVOLUCAO",
+    "06-PLANEJAMENTO/ciclo-atual.md",
+    "06-PLANEJAMENTO/calendario-provas.md",
+    "06-PLANEJAMENTO",
+    "05-TREINOS/2026/11-novembro",
+    "05-TREINOS/LEIA-ME.md",
+    "05-TREINOS/2026",
+    "05-TREINOS",
+    "04-TEMPLATES/template-treino-gerado.md",
+    "04-TEMPLATES/template-hyrox-recebido.md",
+    "04-TEMPLATES/template-feedback.md",
+    "04-TEMPLATES",
+    "03-CONHECIMENTO/musculacao/exercicios.md",
+    "03-CONHECIMENTO/musculacao/divisoes.md",
+    "03-CONHECIMENTO/hyrox/estrategia-prova.md",
+    "03-CONHECIMENTO/hyrox/estacoes.md",
+    "03-CONHECIMENTO/crossfit/referencias.md",
+    "03-CONHECIMENTO/corrida/tipos-de-treino.md",
+    "03-CONHECIMENTO/corrida/progressao.md",
+    "03-CONHECIMENTO/regras-de-combinacao.md",
+    "03-CONHECIMENTO/musculacao",
+    "03-CONHECIMENTO/hyrox",
+    "03-CONHECIMENTO/crossfit",
+    "02-AGENTES/treinador-principal.md",
+    "01-ATLETA/marcas-pessoais.md",
+    "01-ATLETA/zonas-e-ritmos.md",
+    "01-ATLETA/perfil.md",
+    "01-ATLETA/metas.md"
+  ]
+}
